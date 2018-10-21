@@ -1,0 +1,8 @@
+{
+  "short_name": "Threejs and React App",
+  "name": "Using React to use Threejs and show 3d environments",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
